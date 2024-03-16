@@ -180,4 +180,4 @@ module rca(a,b,c,sum,cout) ;
 ![RCA](https://github.com/vignesh7605/VLSI-LAB-EXP-1/assets/160568690/a199172f-9f8b-4fda-af52-53372798ebd3)
 
 ## RESULT:
-Thus all the Logic Gates,Adders and Subtractor are simulated using Xilinx ISE.
+Thus all the Logic Gates,Adders and Subtractor are Simulated using Xilinx ISE.
